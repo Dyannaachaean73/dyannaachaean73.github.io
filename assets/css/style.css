@@ -221,6 +221,29 @@ h2 {
 .content li {
   margin-bottom: 8px;
 }
+.research-project {
+  margin-bottom: 28px;
+  padding: 28px;
+  background: var(--section-background);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.research-project h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 23px;
+}
+
+.research-project p:last-child {
+  margin-bottom: 0;
+}
+
+.research-links {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 1px solid var(--border);
+}
 
 footer {
   padding: 36px 0;
